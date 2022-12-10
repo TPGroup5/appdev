@@ -5,7 +5,7 @@ My First Repository
   <li>MARVEL END GAME</li>
   <dl>
   <dt>SYNOPSIS - Morales, Glanz</dt>
-  <dd>Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.</dd>
+  <dd>Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers - Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.</dd>
   </dl>
   <dt>SPIDERMAN 1 - Benedicto, Franco</dt>
   <dl>
